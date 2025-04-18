@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872928190462",
+    "project_id": "property-management-syst-29be7",
+    "storage_bucket": "property-management-syst-29be7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872928190462:android:6d9e7f1cd9e841efce6aaf",
+        "android_client_info": {
+          "package_name": "com.example.property_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPLnpW3tU_XoB_Jn-4RBhcPohQuo_m0g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
